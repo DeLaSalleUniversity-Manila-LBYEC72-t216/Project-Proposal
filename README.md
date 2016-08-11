@@ -7,4 +7,4 @@ MEMBERS:
 2. APACIBLE, PATRICK ANTHONY M.
 3. PACAYRA, APRIL DANIELLE OILEC B.
 
-![](income table.PNG)
+![](income table.png)
