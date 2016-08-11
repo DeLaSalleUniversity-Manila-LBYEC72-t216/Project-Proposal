@@ -13,8 +13,8 @@ BACKGROUND:
 - A program that can calculate the income tax of a person given its status and monthly income in Philippine setting. 
 
 MEMBERS:
-1. AlBERTO, BEA S. 
+1. ALBERTO, BEA S. 
 2. APACIBLE, PATRICK ANTHONY M.
-3. PACAYRA, APRIL DANIELLE OILEC B.
+3. PACAYRA, APRIL  OILEC  DEANIELLE B.
 
 ![](income table.png)
